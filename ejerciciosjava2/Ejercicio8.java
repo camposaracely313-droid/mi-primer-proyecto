@@ -1,4 +1,4 @@
-package com.mycompany.ejerciciosjava;
+package com.mycompany.ejerciciosjava2;
 import java.util.Scanner;
 /**
  *
